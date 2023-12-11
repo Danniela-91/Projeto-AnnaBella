@@ -3,6 +3,8 @@ body {
 
   font: 16px Arial, Helvetica, sans-serif;
   width: 900px;
+  padding: 0 350px 0 250px;
+  margin: 0 auto;
 }
 
 h1 {
@@ -29,6 +31,7 @@ a {
 #conteudo {
   background: #e8e8d9;
   padding: 10px;
+  text-align: center;
 }
 
 .rodape {
