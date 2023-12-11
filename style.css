@@ -5,6 +5,7 @@ body {
   width: 900px;
   padding: 0 350px 0 250px;
   margin: 0 auto;
+  height: 100vh;
 }
 
 h1 {
